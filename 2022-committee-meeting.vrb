@@ -1,10 +1,21 @@
 \frametitle{Indigo Snake Sequencing Efforts}
 \begin{itemize}
-  \item Approx. 300 individuals concentrated and ready for library prep
-  \begin{itemize}
-    \item About 50 breeders from the OCIC
-    \item About 250 Wild Individuals
-  \end{itemize}
-  \item Additional 400 individuals available for future sequencing
-  \item Whole Genome Sequence using PacBio Sequel II Platform
+\begin{columns}[c]
+  \begin{column}[]{5cm}
+    \item 164 individuals sequenced, 37 broodstock, 47 OG Broodstock, 80 wild individuals
+    \begin{itemize}
+    \item $\sim 40,000$ loci
+    \end{itemize}
+
+\item Whole Genome Sequence using PacBio Sequel II Platform
+    \begin{itemize}
+      \item Working with DLS, have a couple candidate samples
+    \end{itemize}
+  \end{column}
+\begin{column}[]{20cm}
+  \includegraphics[height=8cm]{media/indigo-rad-sampling.png}
+\end{column}
+\end{columns}
+
+
 \end{itemize}

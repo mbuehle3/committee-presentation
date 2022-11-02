@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2022.8.18)  1 NOV 2022 14:17
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2022.11.1)  2 NOV 2022 17:56
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/home/hewdogger3/Documents/git-repos/committee-presentation/2022-committee-meeting.tex
-(/home/hewdogger3/Documents/git-repos/committee-presentation/2022-committee-meeting.tex
+**/home/hewdogger/Documents/committee-presentation/2022-committee-meeting.tex
+(/home/hewdogger/Documents/committee-presentation/2022-committee-meeting.tex
 LaTeX2e <2021-11-15> patch level 1
 L3 programming layer <2022-01-21> (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamer.cls
 Document Class: beamer 2022/01/21 v3.65 A class for typesetting presentations
@@ -878,7 +878,7 @@ File: ot1mathkerncmss.fd 2020/01/31 Fontinst v1.933 font definitions for OT1/mat
 ) [3
 
 ]
-LaTeX Font Info:    Trying to load font information for TS1+cmss on input line 48.
+LaTeX Font Info:    Trying to load font information for TS1+cmss on input line 57.
  (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmss.fd
 File: ts1cmss.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 ) [4
@@ -887,34 +887,75 @@ File: ts1cmss.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 
 ] [6
 
+] [7
+
 ]
 \openout4 = `2022-committee-meeting.vrb'.
 
- (./2022-committee-meeting.vrb) [7
+ (./2022-committee-meeting.vrb
+<media/indigo-rad-sampling.png, id=77, 445.665pt x 659.46375pt>
+File: media/indigo-rad-sampling.png Graphic file (type png)
+<use media/indigo-rad-sampling.png>
+Package pdftex.def Info: media/indigo-rad-sampling.png  used on input line 16.
+(pdftex.def)             Requested size: 153.82259pt x 227.62204pt.
 
-] [8
+Overfull \hbox (256.07481pt too wide) detected at line 18
+[][][] $[]$[][][][][][][][] $[]$[][][][][][] 
+ []
 
-] [9
+)
+Overfull \vbox (23.42976pt too high) detected at line 116
+ []
+
+[8
+
+ <./media/indigo-rad-sampling.png (PNG copy)>] [9
 
 ] [10
 
-] [11
-
-] [12
-
-] [13
-
 ]
-<media/conecuh-pond.jpg, id=109, 4015.0pt x 3011.25pt>
-File: media/conecuh-pond.jpg Graphic file (type jpg)
-<use media/conecuh-pond.jpg>
-Package pdftex.def Info: media/conecuh-pond.jpg  used on input line 183.
-(pdftex.def)             Requested size: 284.50949pt x 213.39566pt.
+<media/florida-miocene.png, id=95, 786.68906pt x 593.21625pt>
+File: media/florida-miocene.png Graphic file (type png)
+<use media/florida-miocene.png>
+Package pdftex.def Info: media/florida-miocene.png  used on input line 157.
+(pdftex.def)             Requested size: 301.8619pt x 227.62204pt.
 
-Overfull \vbox (21.70338pt too high) detected at line 183
+Overfull \vbox (27.92976pt too high) detected at line 157
  []
 
-[14
+[11
+
+ <./media/florida-miocene.png (PNG copy)>]
+<media/indigo-snakes-genetic-clusters.png, id=101, 716.6775pt x 548.0475pt>
+File: media/indigo-snakes-genetic-clusters.png Graphic file (type png)
+<use media/indigo-snakes-genetic-clusters.png>
+Package pdftex.def Info: media/indigo-snakes-genetic-clusters.png  used on input line 162.
+(pdftex.def)             Requested size: 297.66714pt x 227.62204pt.
+
+Overfull \vbox (27.92976pt too high) detected at line 162
+ []
+
+[12
+
+ <./media/indigo-snakes-genetic-clusters.PNG>] [13
+
+] [14
+
+] [15
+
+] [16
+
+]
+<media/conecuh-pond.jpg, id=130, 4015.0pt x 3011.25pt>
+File: media/conecuh-pond.jpg Graphic file (type jpg)
+<use media/conecuh-pond.jpg>
+Package pdftex.def Info: media/conecuh-pond.jpg  used on input line 216.
+(pdftex.def)             Requested size: 284.50949pt x 213.39566pt.
+
+Overfull \vbox (21.70338pt too high) detected at line 216
+ []
+
+[17
 
  <./media/conecuh-pond.jpg>]
 \tf@nav=\write6
@@ -931,18 +972,18 @@ Package rerunfilecheck Info: File `2022-committee-meeting.out' has not changed.
 (rerunfilecheck)             Checksum: 8B7E6327DB6F7EE759DBE12E8809084A;393.
  ) 
 Here is how much of TeX's memory you used:
- 35911 strings out of 478287
- 869235 string characters out of 5849289
- 1243151 words of memory out of 5000000
- 53374 multiletter control sequences out of 15000+600000
- 477485 words of font info for 56 fonts, out of 8000000 for 9000
+ 35943 strings out of 478287
+ 869556 string characters out of 5849289
+ 1243150 words of memory out of 5000000
+ 53391 multiletter control sequences out of 15000+600000
+ 480443 words of font info for 67 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 128i,13n,122p,1905b,789s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi9.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss0800.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss0900.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss1000.pfb>
-Output written on 2022-committee-meeting.pdf (14 pages, 3453731 bytes).
+ 128i,13n,122p,1894b,789s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss0900.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss1000.pfb>
+Output written on 2022-committee-meeting.pdf (17 pages, 4484490 bytes).
 PDF statistics:
- 169 PDF objects out of 1000 (max. 8388607)
- 124 compressed objects within 2 object streams
- 32 named destinations out of 1000 (max. 500000)
- 72 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 197 PDF objects out of 1000 (max. 8388607)
+ 143 compressed objects within 2 object streams
+ 38 named destinations out of 1000 (max. 500000)
+ 87 words of extra memory for PDF output out of 10000 (max. 10000000)
 
